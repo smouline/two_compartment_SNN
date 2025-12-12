@@ -23,7 +23,7 @@ All models are implemented in **PyTorch** using **snnTorch** for spiking neuron 
 
 ## Repository structure
 
-- `Two_Compartment_Neuron_Toy_Problem_Global.ipynb`  
+- `Two_Compartment_Neuron_Toy_Problem.ipynb`  
   Toy 1D timing task with:
   - Synthetic **BasalApicalDataset** (apical predicts basal with a delay)
   - Single-compartment SNN baseline
