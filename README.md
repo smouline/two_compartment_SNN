@@ -46,5 +46,12 @@ All models are implemented in **PyTorch** using **snnTorch** for spiking neuron 
 
 ---
 
-```bash
-pip install torch torchvision snntorch matplotlib
+## Main References
+
+- Jason K. Eshraghian, Max Ward, Emre Neftci, Xinxin Wang, Gregor Lenz, Girish Dwivedi, Mohammed Bennamoun, Doo Seok Jeong, and Wei D. Lu.  
+  “Training Spiking Neural Networks Using Lessons From Deep Learning.” *Proceedings of the IEEE*, 111(9), 2023.
+
+- snnTorch:  
+  Jason K. Eshraghian. "snnTorch: Deep Learning with Spiking Neural Networks."  
+  GitHub repository: https://github.com/jeshraghian/snntorch
+
